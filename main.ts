@@ -1,5 +1,5 @@
 lcd1602.setAddress(
-lcd1602.I2C_ADDR.addr1
+lcd1602.I2C_ADDR.addr3
 )
 lcd1602.putString(
 "ArcBot",
